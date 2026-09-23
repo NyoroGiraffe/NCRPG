@@ -22,6 +22,11 @@ To get started with **NCRPG**, open the chat-based generative AI “New Chat,”
 
 ---
 
+These works are licensed under a Creative Commons Attribution 4.0 International License.
+[http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)
+
+---
+
 # Explanatory Articles
 
 [Not Yet Posted]
