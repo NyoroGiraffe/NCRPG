@@ -12,15 +12,13 @@ tags:
 
 An NCRPG is a game that allows human players to interactively weave a narrative alongside generative AI (such as Claude, Gemini, or ChatGPT), which serves as the Game Master (GM).
 
-Rather than choosing from predetermined options, the story unfolds in real time through dialogue with the AI. A key feature of this genre is that the drama surrounding the characters unfolds improvisationally as the in-game world changes in response to the players’ words and actions.
-
----
-
-Here, I am sharing the game scenarios based on the [**“NCRPG (Narrative Collaborative Role-Playing Game)” framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html)—a new initiative derived from my GitHub project to build a dataset based on the novel [***"Experi-City Hanasaka"***](https://nyorogiraffe.github.io/Experi-City/)—along with explanatory articles related to the game.
+Rather than choosing from predetermined options, the story unfolds in real time through dialogue with the AI. **A key feature of this genre is that the drama surrounding the characters unfolds improvisationally as the in-game world changes in response to the players’ words and actions.**
 
 ---
 <a id="scenario"></a>
 # **Scenarios**
+
+Here, I am sharing **some game scenarios** based on the [**“NCRPG (Narrative Collaborative Role-Playing Game)” framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html)—a new initiative derived from my GitHub project to build a dataset based on the novel [***"Experi-City Hanasaka"***](https://nyorogiraffe.github.io/Experi-City/)—along with explanatory articles related to the game.
 
 To get started with **NCRPG**, open the chat-based generative AI “New Chat,” paste the text from one of the following files into the chat window as a “System Directive," and then begin.
 
