@@ -33,12 +33,6 @@ To get started with **NCRPG**, open the chat-based generative AI “New Chat,”
 To get started with NCRPG, copy [**this template**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG_Template.html), paste it into a text file, fill in the required information, open the chat-based AI generator “New Chat,” paste it into the chat window as a “System Directive," and then begin.
 
 ---
-<a id="license"></a>
-## Licensing & Collaboration
-
-This project is an **"Open Novel"** designed for the era of human-AI collaboration. In accordance with the **CC BY 4.0** license, I encourage you to use your creativity to adapt, translate, and evolve this world in your own language and imagination.
-
----
 <a id="related"></a>
 ## **Related Information**
 
