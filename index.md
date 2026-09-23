@@ -1,6 +1,6 @@
 ---
-description: A protocol for AI-assisted role-playing games that focuses on Narrative Cultivation.
-meta-og:description: A protocol for AI-assisted role-playing games that focuses on Narrative Cultivation.
+description: AI-assisted role-playing games that focuses on Narrative Cultivation.
+meta-og:description: AI-assisted role-playing games that focuses on Narrative Cultivation.
 meta-author: Nyoro Giraffe (Project Management) / ChatGPT and Gemini (Writing)
 tags:
   - Core
