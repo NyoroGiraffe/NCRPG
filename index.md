@@ -8,7 +8,15 @@ tags:
 ---
 # **NCRPG (Narrative Cultivation RPG)**
 
-Here, I am sharing the game scenario based on the [**“NCRPG (Narrative Collaborative Role-Playing Game)” framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html)—a new initiative derived from my GitHub project to build a dataset based on the novel [***"Experi-City Hanasaka"***](https://nyorogiraffe.github.io/Experi-City/)—along with explanatory articles related to the game.
+## What is an “NCRPG (Narrative Collaborative Role-Playing Game)”?
+
+An NCRPG is a game that allows human players to interactively weave a narrative alongside generative AI (such as Claude, Gemini, or ChatGPT), which serves as the Game Master (GM).
+
+Rather than choosing from predetermined options, the story unfolds in real time through dialogue with the AI. A key feature of this genre is that the drama surrounding the characters unfolds improvisationally as the in-game world changes in response to the players’ words and actions.
+
+---
+
+Here, I am sharing the game scenarios based on the [**“NCRPG (Narrative Collaborative Role-Playing Game)” framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html)—a new initiative derived from my GitHub project to build a dataset based on the novel [***"Experi-City Hanasaka"***](https://nyorogiraffe.github.io/Experi-City/)—along with explanatory articles related to the game.
 
 ---
 <a id="scenario"></a>
