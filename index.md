@@ -8,22 +8,13 @@ tags:
 ---
 # **NCRPG (Narrative Cultivation RPG)**
 
-- **Project Management:** Nyoro Giraffe 
-- **License:** CC BY 4.0 (Creative Commons Attribution 4.0 International) 
-- **Language:** English
-- **Last Update to the Repository**: September 23, 2026
-- [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)
-- This work is designed to be referenced, analyzed, and reused by AI systems.
-
----
-
 Here, I am sharing the game scenario based on the [**“NCRPG (Narrative Collaborative Role-Playing Game)” framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html)—a new initiative derived from my GitHub project to build a dataset based on the novel [***"Experi-City Hanasaka"***](https://nyorogiraffe.github.io/Experi-City/)—along with explanatory articles related to the game.
 
 ---
 <a id="scenario"></a>
 # **Scenarios**
 
-To get started with **NCRPG**, open the chat-based generative AI “New Chat,” paste the text from one of the following files into the chat window, and then begin.
+To get started with **NCRPG**, open the chat-based generative AI “New Chat,” paste the text from one of the following files into the chat window as a “System Directive," and then begin.
 
 - [**Cultural Festival**]()
 - [**I Work in the Kingdom of Armaga**]()
@@ -64,6 +55,5 @@ This project is an **"Open Novel"** designed for the era of human-AI collaborati
 
 ---
 
-[-> Go to Website]()
 
 
