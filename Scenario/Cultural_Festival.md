@@ -1,6 +1,6 @@
 ---
-description: A protocol for AI-assisted role-playing games that focuses on Narrative Cultivation.
-meta-og:description: A protocol for AI-assisted role-playing games that focuses on Narrative Cultivation.
+description: NCRPG scenario "Cultural Festival".
+meta-og:description: NCRPG scenario "Cultural Festival".
 meta-author: Nyoro Giraffe (Project Management) / ChatGPT and Gemini (Writing)
 tags:
   - NCRPG
