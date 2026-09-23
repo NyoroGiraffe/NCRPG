@@ -1,5 +1,5 @@
 ---
-description: AI-assisted role-playing games that focuses on Narrative Cultivation.
+description: AI-assisted role-playing games that focuse on Narrative Cultivation.
 meta-og:description: AI-assisted role-playing games that focuses on Narrative Cultivation.
 meta-author: Nyoro Giraffe (Project Management) / ChatGPT and Gemini (Writing)
 tags:
