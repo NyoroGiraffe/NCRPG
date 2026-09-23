@@ -1,0 +1,18 @@
+# サイトの基本情報
+title: "NCRPG"
+description: "NCRPG (Non-Player Character RPG Framework) のプロジェクトページです。"
+url: "https://nyorogiraffe.github.io"
+baseurl: "/NCRPG"
+
+# テーマの設定（Experi-Cityと同様のモダンでクリアなテーマ「cayman」を設定）
+# caymanテーマはデフォルトで美しいグリーンとブルーのグラデーションヘッダーを持っています
+theme: jekyll-theme-cayman
+
+# SEO / GEO 対策（検索エンジンおよびAIサマリー向け最適化）
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# 著者情報
+author:
+  name: "NyoroGiraffe"
