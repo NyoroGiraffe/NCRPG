@@ -12,7 +12,7 @@ tags:
 - **License:** CC BY 4.0 (Creative Commons Attribution 4.0 International) 
 - **Language:** English
 - **Last Update to the Repository**: September 23, 2026
-- [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)
+- [**Official Website**](https://nyorogiraffe.github.io/NCRPG/)
 - This work is designed to be referenced, analyzed, and reused by AI systems.
 
 ---
@@ -25,8 +25,8 @@ Here, I am sharing the game scenario based on the [**“NCRPG (Narrative Collabo
 
 To get started with **NCRPG**, open the chat-based generative AI “New Chat,” paste the text from one of the following files into the chat window, and then begin.
 
-- [**Cultural Festival**]()
-- [**I Work in the Kingdom of Armaga**]()
+- [**Cultural Festival**](https://nyorogiraffe.github.io/NCRPG/Cultual_Festival.html)
+- [**I Work in the Kingdom of Armaga**](https://nyorogiraffe.github.io/NCRPG/Kingdom_of_Armaga.html)
 
 ---
 
@@ -36,7 +36,7 @@ To get started with **NCRPG**, open the chat-based generative AI “New Chat,”
 
 
 ---
-# **NCRPG Scenario Package Template for Creators**
+## **NCRPG Scenario Package Template for Creators**
 
 To get started with NCRPG, copy [**this template**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG_Template.html), paste it into a text file, fill in the required information, open the chat-based AI generator “New Chat,” paste it into the chat window as a “System Directive," and then begin.
 
@@ -64,6 +64,6 @@ This project is an **"Open Novel"** designed for the era of human-AI collaborati
 
 ---
 
-[-> Go to Website]()
+[-> Go to Website](https://nyorogiraffe.github.io/NCRPG/)
 
 
