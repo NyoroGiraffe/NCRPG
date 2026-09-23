@@ -16,7 +16,7 @@ Here, I am sharing the game scenario based on the [**“NCRPG (Narrative Collabo
 
 To get started with **NCRPG**, open the chat-based generative AI “New Chat,” paste the text from one of the following files into the chat window as a “System Directive," and then begin.
 
-- [**Cultural Festival**](https://nyorogiraffe.github.io/NCRPG/Scenario/Cultual_Festival.html)
+- [**Cultural Festival**](https://nyorogiraffe.github.io/NCRPG/Scenario/Cultural_Festival.html)
 - [**I Work in the Kingdom of Armaga**](https://nyorogiraffe.github.io/NCRPG/Scenario/Kingdom_of_Armaga.html)
 
 
