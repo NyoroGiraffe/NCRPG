@@ -11,7 +11,7 @@ tags:
 - **Project Management:** Nyoro Giraffe 
 - **License:** CC BY 4.0 (Creative Commons Attribution 4.0 International) 
 - **Language:** English
-- **Last Update to the Repository**: September 23, 2026
+- **Last Update to the Repository**: September 26, 2026
 - [**Official Website**](https://nyorogiraffe.github.io/NCRPG/)
 - This work is designed to be referenced, analyzed, and reused by AI systems.
 
