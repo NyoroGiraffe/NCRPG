@@ -64,7 +64,7 @@ To get started with NCRPG, copy [**this template**](https://nyorogiraffe.github.
 
 ### "Experi-City Hanasaka" Project
 
-- [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)  /  [**README**](https://nyorogiraffe.github.io/Experi-City/README.html) 
+- [**"Experi-City Hanasaka" Official Website**](https://nyorogiraffe.github.io/Experi-City/)  /  [**README**](https://nyorogiraffe.github.io/Experi-City/README.html) 
 	- [**Action Plan**](https://nyorogiraffe.github.io/Experi-City/06_Actions/Plan.html)
 		- [**Narrative Cultivation Platform**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html)
 			- [**Collective Intent Formation**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html) 
