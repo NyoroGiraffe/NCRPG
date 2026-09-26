@@ -1,10 +1,10 @@
 ---
-description: NCRPG scenario "I Work in the Kingdom of Armaga".
-meta-og:description: NCRPG scenario "I Work in the Kingdom of Armaga".
+description: NCRPG scenario "Cultural Festival".
+meta-og:description: NCRPG scenario "Cultural Festival".
 meta-author: Nyoro Giraffe (Project Management) / ChatGPT and Gemini (Writing)
 tags:
   - NCRPG
-  - Template
+  - Scenario Package
 ---
 
 I would like to play a game like a tabletop RPG with you.
@@ -22,42 +22,33 @@ Please treat both files as active configuration for this game.
 With that done, the following items are as described below.
 
 3.1 Scenario Title (Required)
-- Title: I Work in the Kingdom of Armaga
+- Title: School Festival
 
 3.2 Author (Required)
-- Author: Nyoro Giraffe
+- Author: KUBI
 
 3.3 World Information (Optional)
-- World Information: 
-	- The player is an employee of a shipping company called Black Rabbit who has just arrived in the city of Mikonos, located in the western part of the Kingdom of Armaga.
-	- The Kingdom of Armaga spans approximately 400 km both north to south and east to west, with a population of about 5 million. It borders the Cero Sea to the south and west, the great power of Orios to the east, and Imitari—a country with a similar land area and population—to the north.
-	- Running through the center of Armaga from north to south, toward the Cero Sea from Imitari, is the Shogo River, navigable only by small cargo ships. The capital, Amaski, is located on the banks of the river, about an hour’s ride by express train upstream from Daimo, a town at the river’s mouth facing the Cero Sea.
-	- The Aina River, a tributary of the Shogo River originating in Orios, flows from the northeast to the southwest into the Shogo River, and Amaski is located near their confluence. About two hours by express train upstream from Amaski along the Aina River lies the city of Tukatos, which served as the country’s capital until 300 years ago. An Armaga military base is located here to prepare for potential invasions from Orios.
-	- Located at the western tip of Armaga—about a four-hour ride west of Daimo by express train along the coast—Mikonos, which faces the Cero Sea, is home to the country’s largest port. It maintains thriving trade with the great nation of Lionoa, located about 30 hours west by medium-sized ship across the sea. Black Rabbit is headquartered in Lionoa, and the Player, who is originally from Lionoa, has come to Armaga from that headquarters to expand the company’s operations in the country.
+- World Information: None
 
 3.4 World Challenges (Required)
 - Challenges (up to five);
-	- (1) Many people of Orios descent live to the east of the Kingdom of Armaga, and Orios may invade Armaga under the pretext of protecting them. Although Armaga has a military alliance with Lionoa, Lionoa is currently embroiled in conflicts with other nations, raising concerns that it may not come to Armaga’s aid in an emergency.
-	- (2) Due to ongoing deforestation in the agricultural nation of Imitari, the Shogo River’s water retention capacity has declined, leading to more frequent flooding during heavy rains. Last year’s major flood caused significant damage, including to the capital, Amaski, and reconstruction is now necessary.
-	- (3) Black Rabbit, the shipping company where the Player works, has offices in Amaski, Tukatos, and Mikonos and handles land and sea transportation within Armaga. However, the scale of operations at the Armaga branch has been declining year by year, and the company’s headquarters in Lionoa has ordered the branch to expand its operations.
+	- (1) A certain class at a certain school is struggling to decide what to present at the cultural festival.
+	- (2) Enrollment at that school is declining.
+	- (3) Some students at that school occasionally get into fights with students from other schools.
 
 3.5 NPCs (Optional)
 - Character Definition;
-	- (Name, Gender, Age, Social Role / Effect on Others) = (Roberta, Female, 40, Director of the Mikonos Office at Black Rabbit’s Armaga branch; the Player’s new supervisor. A citizen of Armaga who also speaks Lionoa. Roberta has a map of the Kingdom of Armaga, which she will give to the Player.)
-	- (Name, Gender, Age, Social Role / Effect on Others) = (Golio, Male, 45, the Player’s former supervisor at Black Rabbit’s headquarters in Lionoa, who sent the Player to Armaga)
-	- (Name, Gender, Age, Social Role / Effect on Others) = (Shark, Male, 35, Captain of a medium-sized cargo ship owned by Black Rabbit that travels between Lionoa and Armaga. A citizen of Armaga who also speaks Lionoa.)
-	- (Name, Gender, Age, Social Role / Effect on Others) = (Paulo, Male, 50, Director of the Amaski Office at Black Rabbit’s Armaga branch. Until about five years ago, Paulo worked at Black Rabbit's office in Imitari. A citizen of Armaga who also speaks Lionoa and Imitari.)
-	- (Name, Gender, Age, Social Role / Effect on Others) = (Jack, Male, 38, Director of the Tukatos Office at Black Rabbit’s Armaga branch. A citizen of Armaga from Orios who also speaks Lionoa and Orios.)
+	- (Name, Gender, Age, Social Role / Effect on Others) = (Warabi, Female, 17, Leader of a group involved in violent incidents. Warabi is in a different class from Player and Arare.)
+	- (Name, Gender, Age, Social Role / Effect on Others) = (Arare, Female, 15, Classmate of Player)
+	- (Name, Gender, Age, Social Role / Effect on Others) = (Sansho, Male, 50, School principal)
 
 - Initial Observable Behavioral Frequencies;
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (Roberta, 6/10, 9/10, 7/10, 4/10)
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (Golio, 4/10, 3/10, 3/10, 9/10)
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (Shark, 2/10, 2/10, 9/10, 3/10)
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (Paulo, 2/10, 4/10, 8/10, 2/10)
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (Jack, 10/10, 2/10, 2/10, 8/10)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (Warabi, 2/10, 8/10, 9/10, 9/10)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (Arare, 10/10, 3/10, 1/10, 9/10)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (Sansho, 1/10, 2/10, 3/10, 3/10)
 
 3.6 Scenario-Specific Rules (Optional)
-- Scenario-Specific Rules: Although the Player can understand basic Armaga, they CANNOT make out what is being said when people speak quickly, so they need the assistance of Buddy's automatic translation.
+- Scenario-Specific Rules: Although students at the school sometimes speak directly with the principal, they generally communicate through their teachers.
 
 [CRITICAL SYSTEM DIRECTIVES FOR GM & BUDDY]
 
