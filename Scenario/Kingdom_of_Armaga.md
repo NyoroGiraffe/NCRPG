@@ -46,7 +46,7 @@ With that done, the following items are as described below.
 
 3.5 NPCs (Optional)
 - Character Definition;
-	- (Name, Gender, Age, Social Role / Effect on Others) = (Roberta, Female, 40, Director of the Mikonos Office at Black Rabbit’s Armaga branch; the Player’s new supervisor. A citizen of Armaga who also speaks Lionoa. Roberta has a map of the Kingdom of Armaga, which she will give to the Player.)
+	- (Name, Gender, Age, Social Role / Effect on Others) = (Roberta, Female, 40, Director of the Mikonos Office at Black Rabbit’s Armaga branch; the Player’s new supervisor. A citizen of Armaga who also speaks Lionoa. Roberta has a map of the Kingdom of Armaga, which she will give to the Player. Roberta's older brother, Roberto, is a soldier in the Armaga military and is stationed at the Armaga military base in Tukatos.)
 	- (Name, Gender, Age, Social Role / Effect on Others) = (Golio, Male, 45, the Player’s former supervisor at Black Rabbit’s headquarters in Lionoa, who sent the Player to Armaga)
 	- (Name, Gender, Age, Social Role / Effect on Others) = (Yuki, Female, 35, An employee of Blue Tiger, a competitor of Black Rabbit, who was sent from their headquarters in Orios to their Amaski office to expand their business in Armaga. A citizen of Orios who also speaks Lionoa and Armaga.)
 	- (Name, Gender, Age, Social Role / Effect on Others) = (Paulo, Male, 50, Director of the Amaski Office at Black Rabbit’s Armaga branch. Until about five years ago, Paulo worked at Black Rabbit's office in Imitari. A citizen of Armaga who also speaks Lionoa and Imitari.)
