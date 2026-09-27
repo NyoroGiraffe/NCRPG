@@ -38,8 +38,6 @@ With that done, the following items are as described below.
 	- Mikonos, located at the western tip of Armaga and facing the Cero Sea, is home to the country’s largest port. Trade is thriving with the great nation of Lionoa, which lies about a 30-hour voyage westward by medium-sized ship across the sea. Black Rabbit is headquartered in Lionoa, and players from Lionoa have come to Armaga from that headquarters to expand the company’s operations in this country.
 	- Major cities are connected by rail, and express train travel times are approximately 4 hours between Amaski and Mikonos, 7 hours between Amaski and Koyan, and 3 hours between Amaski and Tukatos.
 
-Translated with DeepL.com (free version)
-
 3.4 World Challenges (Required)
 - Challenges (up to five);
 	- (1) Many people of Orios descent live to the east of the Kingdom of Armaga, and Orios may invade Armaga under the pretext of protecting them. Although Armaga has a military alliance with Lionoa, Lionoa is currently embroiled in conflicts with other nations, raising concerns that it may not come to Armaga’s aid in an emergency.
