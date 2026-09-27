@@ -21,6 +21,7 @@ Please treat both files as active configuration for this game.
 
 With that done, the following items are as described below.
 
+
 3.1 Scenario Title (Required)
 - Title: I Work in the Kingdom of Armaga
 
@@ -31,9 +32,13 @@ With that done, the following items are as described below.
 - World Information: 
 	- The player is an employee of a shipping company called Black Rabbit who has just arrived in the city of Mikonos, located in the western part of the Kingdom of Armaga.
 	- The Kingdom of Armaga spans approximately 400 km both north to south and east to west, with a population of about 5 million. It borders the Cero Sea to the south and west, the great power of Orios to the east, and Imitari—a country with a similar land area and population—to the north.
-	- Running through the center of Armaga from north to south, toward the Cero Sea from Imitari, is the Shogo River, navigable only by small cargo ships. The capital, Amaski, is located on the banks of the river, about an hour’s ride by express train upstream from Daimo, a town at the river’s mouth facing the Cero Sea.
-	- The Aina River, a tributary of the Shogo River originating in Orios, flows from the northeast to the southwest into the Shogo River, and Amaski is located near their confluence. About two hours by express train upstream from Amaski along the Aina River lies the city of Tukatos, which served as the country’s capital until 300 years ago. An Armaga military base is located here to prepare for potential invasions from Orios.
-	- Located at the western tip of Armaga—about a four-hour ride west of Daimo by express train along the coast—Mikonos, which faces the Cero Sea, is home to the country’s largest port. It maintains thriving trade with the great nation of Lionoa, located about 30 hours west by medium-sized ship across the sea. Black Rabbit is headquartered in Lionoa, and the Player, who is originally from Lionoa, has come to Armaga from that headquarters to expand the company’s operations in the country.
+	- In the center of Armaga lies the Shogo River, which flows from north to south—from Imitari toward the Cero Sea—and is navigable only by small cargo ships. The Aina River, a tributary originating in Orios, flows from northeast to southwest into the Shogo River; the capital, Amaski, is located on the riverbank near their confluence.
+	- About 80 km downstream to the southwest from the point where the border between Armaga and Orios meets the Aina River, on the riverbank, lies the city of Tukatos, which served as the country’s capital until 300 years ago. An Armaga military base is located here to guard against invasion from Orios.
+	- Traveling further north from Amaski along the Shogo River, crossing the border between Imitari and Armaga, and proceeding about 100 km into Imitari, you will find Koyan, the capital of Imitari.
+	- Mikonos, located at the western tip of Armaga and facing the Cero Sea, is home to the country’s largest port. Trade is thriving with the great nation of Lionoa, which lies about a 30-hour voyage westward by medium-sized ship across the sea. Black Rabbit is headquartered in Lionoa, and players from Lionoa have come to Armaga from that headquarters to expand the company’s operations in this country.
+	- Major cities are connected by rail, and express train travel times are approximately 4 hours between Amaski and Mikonos, 7 hours between Amaski and Koyan, and 3 hours between Amaski and Tukatos.
+
+Translated with DeepL.com (free version)
 
 3.4 World Challenges (Required)
 - Challenges (up to five);
@@ -45,14 +50,14 @@ With that done, the following items are as described below.
 - Character Definition;
 	- (Name, Gender, Age, Social Role / Effect on Others) = (Roberta, Female, 40, Director of the Mikonos Office at Black Rabbit’s Armaga branch; the Player’s new supervisor. A citizen of Armaga who also speaks Lionoa. Roberta has a map of the Kingdom of Armaga, which she will give to the Player.)
 	- (Name, Gender, Age, Social Role / Effect on Others) = (Golio, Male, 45, the Player’s former supervisor at Black Rabbit’s headquarters in Lionoa, who sent the Player to Armaga)
-	- (Name, Gender, Age, Social Role / Effect on Others) = (Shark, Male, 35, Captain of a medium-sized cargo ship owned by Black Rabbit that travels between Lionoa and Armaga. A citizen of Armaga who also speaks Lionoa.)
+	- (Name, Gender, Age, Social Role / Effect on Others) = (Yuki, Female, 35, An employee of Blue Tiger, a competitor of Black Rabbit, who was sent from their headquarters in Orios to their Amaski office to expand their business in Armaga. A citizen of Orios who also speaks Lionoa and Armaga.)
 	- (Name, Gender, Age, Social Role / Effect on Others) = (Paulo, Male, 50, Director of the Amaski Office at Black Rabbit’s Armaga branch. Until about five years ago, Paulo worked at Black Rabbit's office in Imitari. A citizen of Armaga who also speaks Lionoa and Imitari.)
 	- (Name, Gender, Age, Social Role / Effect on Others) = (Jack, Male, 38, Director of the Tukatos Office at Black Rabbit’s Armaga branch. A citizen of Armaga from Orios who also speaks Lionoa and Orios.)
 
 - Initial Observable Behavioral Frequencies;
 	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (Roberta, 6/10, 9/10, 7/10, 4/10)
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (Golio, 4/10, 3/10, 3/10, 9/10)
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (Shark, 2/10, 2/10, 9/10, 3/10)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (Golio, 2/10, 3/10, 5/10, 5/10)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (Yuki, 1/10, 2/10, 9/10, 9/10)
 	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (Paulo, 2/10, 4/10, 8/10, 2/10)
 	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (Jack, 10/10, 2/10, 2/10, 8/10)
 
@@ -72,6 +77,8 @@ With that done, the following items are as described below.
 - Once the gameplay begins following the initialization protocol (Steps 1–5), during which the “step-by-step execution” rule is strictly enforced, NEVER micro-prompt the player or ask "What will you do next?" after minor internal events.
 - In response to a single player action, the GM SHOULD normally generate a substantial, fully developed Narrative Beat (equivalent to 500–1,500 words).
 - Dynamically resolve the immediate action, advance secondary storylines, update NPC reactions/status, and move the plot forward without waiting for intermediate player confirmations.
+- Track ongoing requests and commitments between Characters. The GM MUST provide a meaningful status update within three Narrative Beats, whether the request is completed, still in progress, or delayed/blocked. The Player MUST NOT need to ask for an update.
+- The GM SHOULD occasionally introduce an Unexpected Event not intentionally caused by the Player or Characters, with an approximate baseline frequency of 10% per Narrative Beat. Major events MUST remain plausible and SHOULD normally have prior signs or developing conditions.
 - Conclude beats naturally with visual scene setups, dramatic hooks, updated Quest Logs, or status changes, allowing the player to naturally step in when they are ready to act. Avoid ending every turn with repetitive questions.
 
 (3) Strict Observable-Information Only (No Internal Readings):
