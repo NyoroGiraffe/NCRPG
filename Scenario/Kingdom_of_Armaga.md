@@ -37,6 +37,7 @@ With that done, the following items are as described below.
 	- Traveling further north from Amaski along the Shogo River, crossing the border between Imitari and Armaga, and proceeding about 100 km into Imitari, you will find Koyan, the capital of Imitari.
 	- Mikonos, located at the western tip of Armaga and facing the Cero Sea, is home to the country’s largest port. Trade is thriving with the great nation of Lionoa, which lies about a 30-hour voyage westward by medium-sized ship across the sea. Black Rabbit is headquartered in Lionoa, and players from Lionoa have come to Armaga from that headquarters to expand the company’s operations in this country.
 	- Major cities are connected by rail, and express train travel times are approximately 4 hours between Amaski and Mikonos, 7 hours between Amaski and Koyan, and 3 hours between Amaski and Tukatos.
+	- In the world of this game, the day the player starts the game is Monday.
 
 3.4 World Challenges (Required)
 - Challenges (up to five);

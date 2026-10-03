@@ -29,7 +29,7 @@ With that done, the following items are as described below.
 - Author: KUBI
 
 3.3 World Information (Optional)
-- World Information: None
+- World Information: In the world of this game, the day the player starts the game is Monday.
 
 3.4 World Challenges (Required)
 - Challenges (up to five);
