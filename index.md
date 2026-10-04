@@ -8,7 +8,7 @@ tags:
 ---
 # **NCRPG (Narrative Cultivation RPG)**
 
-## What is an “NCRPG (Narrative # Cultivation Role-Playing Game)”?
+## What is an “NCRPG (Narrative Cultivation Role-Playing Game)”?
 
 An NCRPG is a game that allows human players to interactively weave a narrative alongside generative AI (such as Claude, Gemini, or ChatGPT), which serves as the Game Master (GM).
 
