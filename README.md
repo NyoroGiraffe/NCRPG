@@ -57,7 +57,7 @@ To get started with NCRPG, copy [**this template**](https://nyorogiraffe.github.
 	- [**Action Plan**](https://nyorogiraffe.github.io/Experi-City/06_Actions/Plan.html)
 		- [**Narrative Cultivation Platform**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html)
 			- [**Collective Intent Formation**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html) 
-			- [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html)
+			- [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/HNRD.html)
 			- [**Narrative Cultivation RPG Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html)
 	- [**Experimental Cities**](./03_WorldBuilding/ExperimentalCities.md)
 	- [**Novel Overview**](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)
