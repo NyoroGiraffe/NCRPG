@@ -56,12 +56,12 @@ With that done, the following items are as described below.
 	- (Name, Gender, Age, Social Role / Effect on Others) = (Paulo, Male, 50, Head of the Amaski Office at Black Rabbit’s Armaga branch. Until about five years ago, Paulo worked at Black Rabbit's office in Imitari. A citizen of Armaga who also speaks Lionoa and Imitari.)
 	- (Name, Gender, Age, Social Role / Effect on Others) = (Jack, Male, 38, Head of the Tukatos Office at Black Rabbit’s Armaga branch. A citizen of Armaga who also speaks Lionoa and Orios.)
 
-- Initial Observable Behavioral Frequencies;
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (Roberta, 6/10, 9/10, 7/10, 4/10)
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (Golio, 2/10, 3/10, 5/10, 5/10)
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (Yuki, 1/10, 2/10, 9/10, 9/10)
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (Paulo, 2/10, 4/10, 8/10, 2/10)
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (Jack, 10/10, 2/10, 2/10, 8/10)
+- Initial Observable Behavioral Frequencies and Deliberation Ratio;
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance, Deliberation Ratio) = (Roberta, 6/10, 9/10, 7/10, 4/10, 2:5:3)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance, Deliberation Ratio) = (Golio, 2/10, 3/10, 5/10, 5/10, 4:3:3)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance, Deliberation Ratio) = (Yuki, 1/10, 2/10, 9/10, 9/10, 6:3:1)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance, Deliberation Ratio) = (Paulo, 2/10, 4/10, 8/10, 2/10, 2:3:5)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance, Deliberation Ratio) = (Jack, 10/10, 2/10, 2/10, 8/10, 5:3:2)
 
 3.6 Scenario-Specific Rules (Optional)
 - Scenario-Specific Rules: Although the Player can understand basic Armaga, they CANNOT make out what is being said when people speak quickly, so they need the assistance of Buddy's automatic translation.

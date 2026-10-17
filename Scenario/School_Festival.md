@@ -43,10 +43,10 @@ With that done, the following items are as described below.
 	- (Name, Gender, Age, Social Role / Effect on Others) = (Arare, Female, 15, Classmate of Player)
 	- (Name, Gender, Age, Social Role / Effect on Others) = (Sansho, Male, 50, School principal)
 
-- Initial Observable Behavioral Frequencies;
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (Warabi, 2/10, 8/10, 9/10, 9/10)
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (Arare, 10/10, 3/10, 1/10, 9/10)
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (Sansho, 1/10, 2/10, 3/10, 3/10)
+- Initial Observable Behavioral Frequencies and Deliberation Ratio;
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance, Deliberation Ratio) = (Warabi, 2/10, 8/10, 9/10, 9/10, 5:3:2)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance, Deliberation Ratio) = (Arare, 10/10, 3/10, 1/10, 9/10, 3:5:2)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance, Deliberation Ratio) = (Sansho, 1/10, 2/10, 3/10, 3/10, 2:3:5)
 
 3.6 Scenario-Specific Rules (Optional)
 - Scenario-Specific Rules: Although students at the school sometimes speak directly with the principal, they generally communicate through their teachers.
