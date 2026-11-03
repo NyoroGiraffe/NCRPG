@@ -4,7 +4,12 @@ meta-og:description: NCRPG scenario "I Work in the Kingdom of Armaga".
 meta-author: Nyoro Giraffe (Project Management) / ChatGPT and Gemini (Writing)
 tags:
   - NCRPG
-  - Template
+  - Scenario Package
+---
+# I Work in the Kingdom of Armaga
+
+To get started with [NCRPG](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html), open New Chat—a chat-based generative AI—paste the following text into the chat window, fill in the required information, and then begin.
+
 ---
 
 I would like to play a game like a tabletop RPG with you.

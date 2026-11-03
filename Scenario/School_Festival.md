@@ -6,6 +6,11 @@ tags:
   - NCRPG
   - Scenario Package
 ---
+# School Festival
+
+To get started with [NCRPG](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html), open New Chat—a chat-based generative AI—paste the following text into the chat window, fill in the required information, and then begin.
+
+---
 
 I would like to play a game like a tabletop RPG with you.
 
