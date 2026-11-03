@@ -42,31 +42,34 @@ With that done, the following items are as described below.
 	- Traveling further north from Amaski along the Shogo River, crossing the border between Imitari and Armaga, and proceeding about 100 km into Imitari, you will find Koyan, the capital of Imitari.
 	- Mikonos, located at the western tip of Armaga and facing the Cero Sea, is home to the country’s largest port. Trade is thriving with the great nation of Lionoa, which lies about a 30-hour voyage westward by medium-sized ship across the sea. Black Rabbit is headquartered in Lionoa, and players from Lionoa have come to Armaga from that headquarters to expand the company’s operations in this country.
 	- Major cities are connected by rail, and express train travel times are approximately 4 hours between Amaski and Mikonos, 7 hours between Amaski and Koyan, and 3 hours between Amaski and Tukatos.
-	- Roberta, the head of the Mikonos Office, exports machine parts from Armaga to Lionoa and imports machine products from Lionoa to Armaga, but she is interested in trying her hand at importing and exporting other goods as well.
-	- Paulo, the head of the Amaski Office, is growing anxious because, despite the surge in demand following the Shogo River flood, the firm isn't generating as much revenue or profit as expected due to competition from Blue Tiger.
-	- Jack, the head of the Tukatos Office, wants to expand business by also handling the transport of weapons and equipment as part of his dealings with the Armaga military.
+	- Black Rabbit, the shipping company where the Player works, has a branch in Amaski, the capital of Armaga, as well as local offices in Tukatos and Mikonos.
+	- Roberta, the head of the Mikonos local office, exports machine parts from Armaga to Lionoa and imports machine products from Lionoa to Armaga, but she is interested in trying her hand at importing and exporting other goods as well.
+	- Paulo, the head of the Armaga Branch Office in Amaski, is growing anxious because, despite the surge in demand following the Shogo River flood, the firm isn't generating as much revenue or profit as expected due to competition from Blue Tiger.
+	- Jack, the head of the Tukatos local office, wants to expand business by also handling the transport of weapons and equipment as part of his dealings with the Armaga military.
+	- Many people of Orios descent live to the east of the Kingdom of Armaga, and Orios may invade Armaga under the pretext of protecting them. Although Armaga has a military alliance with Lionoa, Lionoa is currently embroiled in conflicts with other nations, raising concerns that it may not come to Armaga’s aid in an emergency.
+	- Due to ongoing deforestation in the agricultural nation of Imitari, the Shogo River’s water retention capacity has declined, leading to more frequent flooding during heavy rains. Last year’s major flood caused significant damage, including to the capital, Amaski, and reconstruction is now necessary.
 	- In the world of this game, the day the player starts the game is Monday.
 
 3.4 World Challenges (Required)
 - Challenges (up to five);
-	- (1) Many people of Orios descent live to the east of the Kingdom of Armaga, and Orios may invade Armaga under the pretext of protecting them. Although Armaga has a military alliance with Lionoa, Lionoa is currently embroiled in conflicts with other nations, raising concerns that it may not come to Armaga’s aid in an emergency.
-	- (2) Due to ongoing deforestation in the agricultural nation of Imitari, the Shogo River’s water retention capacity has declined, leading to more frequent flooding during heavy rains. Last year’s major flood caused significant damage, including to the capital, Amaski, and reconstruction is now necessary.
-	- (3) Black Rabbit, the shipping company where the Player works, has offices in Amaski, Tukatos, and Mikonos and handles land and sea transportation within Armaga. However, the scale of operations at the Armaga branch has been declining year by year, and the company’s headquarters in Lionoa has ordered the branch to expand its operations.
+	- (1) Black Rabbit's Armaga Branch handles land and sea transportation within Armaga. However, the Armaga branch's business has been shrinking year by year, and the headquarters in Lionoa instructed Paulo, the branch manager, to submit a business expansion plan to his superior, Golio, within 30 days of the Player's arrival in Armaga.
+	- (2) Golio must have his plan to expand operations in Armaga approved by the executive board at the headquarters in Lionoa within 30 days of receiving it from Paulo. However, since quite a few executives have no interest in expanding operations in a small country like Armaga, Golio and the staff at the Armaga branch will need to refine the plan, taking into account the various conditions and demands that the executives are likely to impose, in order to secure their approval.
+	- (3) Even if the plan is approved by the executive board, if Blue Tiger—a competitor of Black Rabbit based in Orios—continues to expand its operations in Armaga, Black Rabbit will not be able to achieve the expected increase in revenue. Therefore, the Armaga branch must, within 30 days of receiving approval from the executive board, identify factors that can undermine Blue Tiger’s competitiveness in Armaga and determine strategies to continuously curb its growth.
 
 3.5 NPCs (Optional)
 - Character Definition;
 	- (Name, Gender, Age, Social Role / Effect on Others) = (Roberta, Female, 40, Head of the Mikonos Office at Black Rabbit’s Armaga branch; the Player’s new supervisor. A citizen of Armaga who also speaks Lionoa. Roberta has a map of the Kingdom of Armaga, which she will give to the Player. Roberta's older brother, Roberto, is a soldier in the Armaga military and is stationed at the Armaga military base in Tukatos.)
 	- (Name, Gender, Age, Social Role / Effect on Others) = (Golio, Male, 45, Department head at Black Rabbit's Lionoa headquarters, where he oversees the company's operations in the nations of Armaga and Imitari. He is the Player’s former supervisor at the headquarters, and sent the Player to Armaga.)
 	- (Name, Gender, Age, Social Role / Effect on Others) = (Yuki, Female, 35, An employee of Blue Tiger, a competitor of Black Rabbit, who was sent from their headquarters in Orios to their Amaski office to expand their business in Armaga. A citizen of Orios who also speaks Lionoa and Armaga.)
-	- (Name, Gender, Age, Social Role / Effect on Others) = (Paulo, Male, 50, Head of the Amaski Office at Black Rabbit’s Armaga branch. Until about five years ago, Paulo worked at Black Rabbit's office in Imitari. A citizen of Armaga who also speaks Lionoa and Imitari.)
+	- (Name, Gender, Age, Social Role / Effect on Others) = (Paulo, Male, 50, Head of the Armaga branch of Black Rabbit in Amaski, and he is Roberta and Jack's supervisor. Until about five years ago, Paulo worked at Black Rabbit's office in Imitari. A citizen of Armaga who also speaks Lionoa and Imitari.)
 	- (Name, Gender, Age, Social Role / Effect on Others) = (Jack, Male, 38, Head of the Tukatos Office at Black Rabbit’s Armaga branch. A citizen of Armaga who also speaks Lionoa and Orios.)
 
 - Initial Observable Behavioral Frequencies and Deliberation Ratio;
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance, Deliberation Ratio) = (Roberta, 6/10, 9/10, 7/10, 4/10, 2:5:3)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance, Deliberation Ratio) = (Roberta, 6/10, 9/10, 7/10, 4/10, 2:6:2)
 	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance, Deliberation Ratio) = (Golio, 2/10, 3/10, 5/10, 5/10, 4:3:3)
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance, Deliberation Ratio) = (Yuki, 1/10, 2/10, 9/10, 9/10, 6:3:1)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance, Deliberation Ratio) = (Yuki, 1/10, 2/10, 9/10, 9/10, 6:2:2)
 	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance, Deliberation Ratio) = (Paulo, 2/10, 4/10, 8/10, 2/10, 2:3:5)
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance, Deliberation Ratio) = (Jack, 10/10, 2/10, 2/10, 8/10, 5:3:2)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance, Deliberation Ratio) = (Jack, 10/10, 2/10, 2/10, 8/10, 5:4:1)
 
 3.6 Scenario-Specific Rules (Optional)
 - Scenario-Specific Rules: Although the Player can understand basic Armaga, they CANNOT make out what is being said when people speak quickly, so they need the assistance of Buddy's automatic translation.
