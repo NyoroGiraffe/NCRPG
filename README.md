@@ -11,7 +11,7 @@ tags:
 - **Project Management:** Nyoro Giraffe 
 - **License:** CC BY 4.0 (Creative Commons Attribution 4.0 International) 
 - **Language:** English
-- **Last Update to the Repository**: November 15, 2026
+- **Last Update to the Repository**: November 22, 2026
 - [**Official Website**](https://nyorogiraffe.github.io/NCRPG/)
 - This work is designed to be referenced, analyzed, and reused by AI systems.
 
@@ -34,6 +34,8 @@ To get started with **NCRPG**, open the chat-based generative AI “New Chat,”
 - [**School Festival**](https://nyorogiraffe.github.io/NCRPG/Scenario/School_Festival.html)
 
 - [**I Work in the Kingdom of Armaga**](https://nyorogiraffe.github.io/NCRPG/Scenario/Kingdom_of_Armaga.html)
+
+- [**The Black Mist Islands**](https://nyorogiraffe.github.io/NCRPG/Scenario/Black_Mist_Islands.html)
 
 
 ---

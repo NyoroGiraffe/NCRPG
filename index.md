@@ -28,6 +28,8 @@ To get started with **NCRPG**, open the chat-based generative AI “New Chat,”
 - [**I Work in the Kingdom of Armaga**](https://nyorogiraffe.github.io/NCRPG/Scenario/Kingdom_of_Armaga.html)
 	- You are an employee of a shipping company who has been assigned to the Kingdom of Armaga. You are expected to improve the company’s performance while remaining mindful of the challenges facing this country. Since the scenario does not provide detailed information about the country’s geography or social conditions, the story will become richer as you bring these elements to life through your own narration.
 
+- [**The Black Mist Islands**](https://nyorogiraffe.github.io/NCRPG/Scenario/Black_Mist_Islands.html)
+	- An adventure for everyone. As a new member of an expedition crew, you sail to islands covered by a mysterious black mist, where monsters come out of ancient ruins. The monsters grow stronger as the mist grows thicker, and the mist seems to be connected to the troubles between people. Gather companions, help the islanders settle their disagreements, and find out the truth about the ruins. Who built the ruins and why is not decided in advance; it depends on the path you take and the conversations you have.
 
 ---
 
