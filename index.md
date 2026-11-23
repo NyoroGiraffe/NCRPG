@@ -22,14 +22,15 @@ Here, I am sharing **some game scenarios** based on the [**“NCRPG (Narrative C
 
 To get started with **NCRPG**, open the chat-based generative AI “New Chat,” paste the text from one of the following files into the chat window as a “System Directive," and then begin.
 
-- [**School Festival**](https://nyorogiraffe.github.io/NCRPG/Scenario/School_Festival.html)
-	- This is for beginners to NCRPGs. At a high school facing several issues, the students discuss and prepare for their school festival booth. Since the scenario does not provide detailed information about the relationships at this school or the surrounding area, the story will become richer as you bring these elements to life through your own narration.
-	
-- [**I Work in the Kingdom of Armaga**](https://nyorogiraffe.github.io/NCRPG/Scenario/Kingdom_of_Armaga.html)
-	- You are an employee of a shipping company who has been assigned to the Kingdom of Armaga. You are expected to improve the company’s performance while remaining mindful of the challenges facing this country. Since the scenario does not provide detailed information about the country’s geography or social conditions, the story will become richer as you bring these elements to life through your own narration.
+* [**School Festival**](https://nyorogiraffe.github.io/NCRPG/Scenario/School_Festival.html)
+   * At a small high school, your class has five weeks to put on a 30-minute play based on a folk tale or a classic story. With little stage time, a small budget, classmates who rarely agree, and rumors of trouble with another school, how will the festival turn out?
 
-- [**The Black Mist Islands**](https://nyorogiraffe.github.io/NCRPG/Scenario/Black_Mist_Islands.html)
-	- An adventure for everyone. As a new member of an expedition crew, you sail to islands covered by a mysterious black mist, where monsters come out of ancient ruins. The monsters grow stronger as the mist grows thicker, and the mist seems to be connected to the troubles between people. Gather companions, help the islanders settle their disagreements, and find out the truth about the ruins. Who built the ruins and why is not decided in advance; it depends on the path you take and the conversations you have.
+- [**I Work in the Kingdom of Armaga**](https://nyorogiraffe.github.io/NCRPG/Scenario/Kingdom_of_Armaga.html)
+   - You have just been sent to the small Kingdom of Armaga by the shipping company you work for. A rival company is growing, a great power threatens the border, and floods keep hitting the capital. Can your team's business plan win approval from headquarters within the deadline?
+
+* [**The Black Mist Islands**](https://nyorogiraffe.github.io/NCRPG/Scenario/Black_Mist_Islands.html)
+   * Join an expedition crew sailing to islands hidden in a black mist, where monsters come out of ancient ruins. The thicker the mist, the stronger the monsters, and the mist seems tied to the quarrels among the islanders. Who built the ruins, and why? The answer depends on your journey.
+
 
 ---
 
